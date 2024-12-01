@@ -15,6 +15,7 @@ This project is a faithful recreation of the classic Flash game *You Have to Bur
 ### Keyboard
 - **Arrow Keys**: Move left and right
 - **Up Arrow / Space**: Jump
+- **R**: Restart the game
 - **Any Other Key**: Attack
 - **F6**: Toggle in-game speedrun timer
 
