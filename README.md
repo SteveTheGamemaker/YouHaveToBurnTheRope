@@ -48,6 +48,8 @@ This remake is a tribute to the creativity and humor of Kian Bashiri's original 
 
 I expect no credit or monetary compensation for this project. It is freely shared with the community, just as the original was. If Kian Bashiri ever sees this and feels uncomfortable with its existence, or wishes to take full ownership or credit for this remake, I will gladly take it down or transfer everything to him without hesitation. This is his creation, and I am deeply grateful to have had the opportunity to celebrate it in this way.
 
+I included my name as the developer of the remake for transparency and accountability, but I do not claim any ownership or creative credit for the original concept. This project exists purely as a tribute to the incredible work of Kian Bashiri.
+
 ## Acknowledgments
 
 - Special thanks to Kian Bashiri for creating the original game and for inspiring so many with its humor and charm.
