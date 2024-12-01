@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"MusicCaveScary",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":23.972,
+  "name":"MusicCaveScary",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"MusicCaveScary.mp3",
+  "type":0,
+  "volume":1.0,
+}

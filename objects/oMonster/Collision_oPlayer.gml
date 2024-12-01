@@ -1,0 +1,1 @@
+oPlayer.takeDamage(self);
