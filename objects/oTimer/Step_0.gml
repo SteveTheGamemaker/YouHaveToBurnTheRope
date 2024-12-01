@@ -1,4 +1,4 @@
-timeH+=30000/1000000;
+timeH+=33000/1000000;
 
 if instance_exists(oPlayer) { 
 	// Speedrun timer
