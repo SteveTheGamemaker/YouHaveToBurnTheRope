@@ -55,6 +55,12 @@ I included my name as the developer of the remake for transparency and accountab
 - Special thanks to Kian Bashiri for creating the original game and for inspiring so many with its humor and charm.
 - Gratitude to the GameMaker community for their incredible support and resources, which made this project possible.
 
+## Disclaimer
+
+This project is a fan-made remake of You Have to Burn the Rope by Kian Bashiri. The original ActionScript code was referenced for accuracy, as SWF files are naturally accessible, but the original creator has not explicitly licensed their work for public use. This remake is shared in the spirit of tribute and respect.
+
+No rights are claimed over the original game, and this project is not licensed for commercial use. If you are the original creator and have any concerns, please reach out, and I will address them promptly.
+
 ---
 
 For more information on *You Have to Burn the Rope*, visit the [Wikipedia page](https://en.wikipedia.org/wiki/You_Have_to_Burn_the_Rope), or play the [original game on Kongregate](https://www.kongregate.com/games/Mazapan/you-have-to-burn-the-rope).
