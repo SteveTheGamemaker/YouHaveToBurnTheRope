@@ -4,7 +4,7 @@ var key_left = keyboard_check(vk_left) || gamepad_button_check(0, gp_padl) || (g
 var key_attack = false || gamepad_button_check(0, gp_face2) || gamepad_button_check(0, gp_face3) || gamepad_button_check(0, gp_face4);
 
 if (keyboard_check_pressed(vk_anykey)) {
-    if (keyboard_lastkey != vk_left && keyboard_lastkey != vk_right && keyboard_lastkey != vk_up && keyboard_lastkey != vk_space && keyboard_lastkey != vk_f6 && keyboard_lastkey != vk_f7) {
+    if (keyboard_lastkey != vk_left && keyboard_lastkey != vk_right && keyboard_lastkey != vk_up && keyboard_lastkey != vk_space && keyboard_lastkey != vk_f6) {
         key_attack = true;
     }
 }
