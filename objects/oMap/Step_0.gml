@@ -23,6 +23,7 @@ if(global.gameOver)
 }
 
 if !surface_exists(tilesurface) {
+	tilesurface = surface_create(width*32, height*32);
 	surface_set_target(tilesurface);
 
 	for (var i = 0; i < array_length(map_compressed); i += 1) {
@@ -47,16 +48,6 @@ if !surface_exists(tilesurface) {
 	                draw_sprite_part(TileSheet, 0, left, top, 32, 32, x_pos, y_pos);
 	            }
 	        }
-			else
-			{
-				// Create ground objects for the run length
-	            for (var k = 0; k < count; k += 1) {
-	                var x_pos = (ii + k) * 32;
-	                var y_pos = i * 32;
-	                var newground = instance_create_layer(x_pos, y_pos, "Instances", oGround);
-	                newground.image_index = tileindex - 3;
-	            }
-			}
 	        // Move the horizontal position forward by the count
 	        ii += count;
 	    }
