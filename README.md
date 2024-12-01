@@ -1,14 +1,14 @@
 # You Have to Burn the Rope – GameMaker Remake
 
-This project is a faithful recreation of the classic Flash game *You Have to Burn the Rope*, originally developed by Kian Bashiri, also known as Mazapán. The original game, released in April 2008, is a satirical platformer that humorously critiques excessive hand-holding in AAA video games.
+This project is a faithful recreation of the classic Flash game *You Have to Burn the Rope*, originally developed by Kian Bashiri, under the name "Mazapán". The original game, released in April 2008, is a satirical platformer that humorously critiques excessive hand-holding in AAA video games.
 
 ## Features
 
 - **Authentic Gameplay**: Recreated the original game mechanics by closely following the original ActionScript code, while leveraging GameMaker's native functionality.
 - **Gamepad Support**: Implemented full gamepad compatibility, including rumble feedback during existing cinematics.
 - **Audio Controls**: Added options to toggle sound effects and music independently.
-- **Speedrun Timer**: Integrated a timer to facilitate speedrunning, acknowledging the game's popularity in the speedrunning community.
-- **Quick Restart**: Enabled players to restart the game instantly with a button press, enhancing replayability.
+- **Speedrun Timer**: Integrated a timer to facilitate speedrunning.
+- **Quick Restart**: Enabled players to restart the game instantly with a button press.
 
 ## Controls
 
@@ -37,7 +37,7 @@ The game was a finalist for the Innovation Award at the 2009 Independent Games F
 
 ## Credits
 
-- **Original Game**: Developed by Kian Bashiri (Mazapán)
+- **Original Game**: Developed by Kian Bashiri
 - **Original Music**: Composed by Henrik Nåmark
 - **GameMaker Remake**: Developed by Jonah Gurnsey
 
