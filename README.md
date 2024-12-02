@@ -2,6 +2,8 @@
 
 This project is a faithful recreation of the classic Flash game *You Have to Burn the Rope*, originally developed by Kian Bashiri under the name "Mazapán". The original game, released in April 2008, is a satirical platformer that humorously critiques excessive hand-holding in AAA video games.
 
+[Play the game in HTML5!](https://stevethegamemaker.github.io/YouHaveToBurnTheRope/)
+
 ## Features
 
 - **Authentic Gameplay**: Recreated the original game mechanics by closely following the original ActionScript code, while leveraging GameMaker's native functionality.
