@@ -1,4 +1,4 @@
-if window_mouse_get_x() > x && window_mouse_get_x() < x+sprite_width && window_mouse_get_y() > y && window_mouse_get_y() < y+sprite_height {
+if device_mouse_x_to_gui(0) > x && device_mouse_x_to_gui(0) < x+sprite_width && device_mouse_y_to_gui(0) > y && device_mouse_y_to_gui(0) < y+sprite_height {
 	if global.sfx {
 		global.sfx = false;
 		if audio_group_get_gain(SFX) = 1 {

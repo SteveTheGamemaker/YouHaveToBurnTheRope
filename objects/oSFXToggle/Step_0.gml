@@ -1,6 +1,6 @@
 image_index = global.sfx;
 
-if window_mouse_get_x() > x-16 && window_mouse_get_x() < x+sprite_width+16 && window_mouse_get_y() > y-16 && window_mouse_get_y() < y+sprite_height+16 {
+if device_mouse_x_to_gui(0) > x-16 && device_mouse_x_to_gui(0) < x+sprite_width+16 && device_mouse_y_to_gui(0) > y-16 && device_mouse_y_to_gui(0) < y+sprite_height+16 {
 	image_alpha = lerp(image_alpha, 1, 0.5);
 }
 else
@@ -8,7 +8,7 @@ else
 	image_alpha = lerp(image_alpha, 0, 0.5);
 }
 
-if window_mouse_get_x() > x && window_mouse_get_x() < x+sprite_width && window_mouse_get_y() > y && window_mouse_get_y() < y+sprite_height {
+if device_mouse_x_to_gui(0) > x && device_mouse_x_to_gui(0) < x+sprite_width && device_mouse_y_to_gui(0) > y && device_mouse_y_to_gui(0) < y+sprite_height {
 	mouseOver = true;
 	window_set_cursor(cr_handpoint);
 }
