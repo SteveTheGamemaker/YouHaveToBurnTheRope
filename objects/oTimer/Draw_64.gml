@@ -2,6 +2,7 @@ if timer = true {
 	draw_set_halign(fa_left);
 	draw_set_valign(fa_top);
 	draw_set_font(Font3);
+	
 	// Format the time to display three decimal places
 	timeH_str = string_format(visTime, 2, 3);
 	timeH_str = string_replace(timeH_str, " ", "0");

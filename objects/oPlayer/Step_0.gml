@@ -223,8 +223,8 @@ if (place_meeting(x, y, oGround)) {
 			y = round(y);
         }
 		if vy = 32 {
-			instance_create_depth(x, y+(sprite_height/2), depth-1, oPlume);
-			var rPlume = instance_create_depth(x, y+(sprite_height/2), depth-1, oPlume);
+			instance_create_depth(x, y+(sprite_height/2), depth-5, oPlume);
+			var rPlume = instance_create_depth(x, y+(sprite_height/2), depth-5, oPlume);
 			rPlume.image_xscale=-1;
 			fireTimer = 0;
 			audio_play_sound(sndLand, 1, 0, 0.4);

@@ -61,6 +61,12 @@ This project is a fan-made remake of You Have to Burn the Rope by Kian Bashiri. 
 
 No rights are claimed over the original game, and this project is not licensed for commercial use. If you are the original creator and have any concerns, please reach out, and I will address them promptly.
 
+## To-do:
+
+- Make the text on the image parts of the credit fade in/out
+- Fix mistaken attacks in HTML5
+- Make audio toggles actually clickable when resolution isn't perfect
+
 ---
 
 For more information on *You Have to Burn the Rope*, visit the [Wikipedia page](https://en.wikipedia.org/wiki/You_Have_to_Burn_the_Rope), or play the [original game on Kongregate](https://www.kongregate.com/games/Mazapan/you-have-to-burn-the-rope).

@@ -13,7 +13,6 @@ if (mouse_check_button(mb_left))
     var touch_y = window_mouse_get_y();
     
     // Get the screen dimensions
-	
     var screen_width = display_get_gui_width();
     var screen_height = display_get_gui_height();
     
