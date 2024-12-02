@@ -64,7 +64,7 @@ No rights are claimed over the original game, and this project is not licensed f
 ## To-do:
 
 - Make the text on the image parts of the credit fade in/out
-- Fix mistaken attacks in HTML5
+- Fix mistaken attacks in HTML5(keyboard_lastkey must work differently on HTML5)
 - Make audio toggles actually clickable when resolution isn't perfect
 
 ---
