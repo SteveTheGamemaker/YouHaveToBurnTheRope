@@ -7,7 +7,7 @@ This project is a faithful recreation of the classic Flash game *You Have to Bur
 ## Features
 
 - **Authentic Gameplay**: Recreated the original game mechanics by closely following the original ActionScript code, while leveraging GameMaker's native functionality.
-- **Gamepad Support**: Implemented full gamepad compatibility, including rumble feedback during existing cinematics.
+- **Gamepad Support**: Implemented full gamepad compatibility, including rumble feedback during existing cinematics(rumble doesn't work on HTML5).
 - **Audio Controls**: Added options to toggle sound effects and music independently. (Top right of the game window, hover to reveal)
 - **Speedrun Timer**: Integrated a timer to facilitate speedrunning.
 - **Quick Restart**: Enabled players to restart the game instantly with a button press.
@@ -65,6 +65,7 @@ No rights are claimed over the original game, and this project is not licensed f
 
 ## To-do:
 
+- Find a way to make the text non pixelated. GameMaker SDF doesn't look right either.
 - Make the text on the image parts of the credit fade in/out
 - Make audio toggles actually clickable when resolution isn't perfect
 
