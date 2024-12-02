@@ -67,7 +67,6 @@ No rights are claimed over the original game, and this project is not licensed f
 
 - Find a way to make the text non pixelated. GameMaker SDF doesn't look right either.
 - Make the text on the image parts of the credit fade in/out
-- Make audio toggles actually clickable when resolution isn't perfect
 
 ---
 
