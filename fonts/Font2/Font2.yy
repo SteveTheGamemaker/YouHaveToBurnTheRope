@@ -157,7 +157,7 @@
     {"lower":225,"upper":225,},
     {"lower":229,"upper":229,},
   ],
-  "regenerateBitmap":true,
+  "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
   "sampleText":" !&'(),-.123ABCDGHIKLMNORSTUWYabcdefghiklmnoprstuvwyzáå",
